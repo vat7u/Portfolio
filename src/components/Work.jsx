@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCard";
 const works = [
   {
     imgSrc: '/images/Baraka_project.png',
-    title: 'Resturant web app',
+    title: 'Restaurant web app',
     tags: ['Laravel', 'MVC', 'PHP'],
     projectLink: 'https://github.com/vat7u/Riad-Baraka-project'
   },
